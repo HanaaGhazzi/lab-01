@@ -1,0 +1,216 @@
+#div1{
+    width: 100%;
+    
+    height: 125px;
+    line-height: 125px;
+       
+}
+#div2{
+    width: 100%;
+    
+    height: 125px;
+    line-height: 125px;
+  
+}
+#div3{
+    width: 100%;
+    
+    height: 125px;
+    line-height: 125px;
+
+  
+}
+#div4{
+    width: 100%;
+    height: 125px;
+    line-height: 125px;
+ 
+}
+#div5{
+    width: 100%;
+    height: 125px;
+    line-height: 125px;
+
+  
+}
+#div6{
+    width: 100%;
+    height: 125px;
+    line-height: 125px;
+ 
+}
+#div7{
+    width: 100%;
+    height: 125px;
+    line-height: 125px;
+ 
+  
+  
+}
+#div8{
+    width: 100%;
+    height: 125px;
+    line-height: 125px;
+  
+  
+}
+#div9{
+    width: 100%;
+    height: 125px;
+    line-height: 125px;
+
+  
+}
+
+
+
+
+/* mobile  */
+@media screen and (min-device-width: 480px) and (max-device-width: 767px){
+
+    
+      #div1{
+          width: 480px;
+          height: 75px;
+          line-height: 75px;
+        
+      }
+      #div2{
+        width: 480px;
+        height: 150px;
+        line-height: 150px;
+       
+      }
+      #div3{
+        width: 480px;
+        height: 125px;
+        line-height: 125px;
+
+       
+      }
+      #div4{
+        width: 480px;
+        height: 125px;
+      
+      }
+      #div5{
+        width: 240px;
+        height: 250px;
+        line-height: 250px;
+
+       
+        float: left;
+      }
+      #div6{
+        width: 240px;
+        height: 250px;
+        line-height: 250px;
+     
+        float: left;
+      }
+      #div7{
+        width: 240px;
+        height: 250px;
+        line-height: 250px;
+   
+        float: left;
+        
+      }
+      #div8{
+        width: 240px;
+        height: 250px;
+        line-height: 250px;
+      
+        float: left;
+      }
+      #div9{
+        width: 480px;
+        height: 80px;
+        line-height: 80px;
+       
+        
+      }
+      
+      
+      
+}
+
+/* desktop */
+@media screen and (min-device-width: 768px) and (max-device-width: 960px) { 
+
+
+     
+      #div1{
+          width: 960px;
+          height: 100px;
+          line-height: 100px;
+          
+      }
+      #div2{
+        width: 200px;
+        height: 600px;
+        line-height: 600px;
+        float: left;
+        
+      }
+      #div3{
+        width: 380px;
+        height: 200px;
+        line-height: 200px;
+     
+        float: left;
+        
+      }
+      #div4{
+        width: 380px;
+        height: 200px;
+        line-height: 200px;
+        
+       
+        
+        float: left;
+      }
+      #div5{
+        width: 190px;
+        height: 250px;
+        line-height: 250px;
+
+       
+        float: left;
+                overflow: hidden;
+
+      }
+      #div6{
+        width: 190px;
+        height: 250px;
+        line-height: 250px;
+
+ 
+        float: left;
+      }
+      #div7{
+        width: 190px;
+        height: 250px;
+        line-height: 250px;
+  
+        float: left;
+      }
+      #div8{
+        width: 190px;
+        height: 250px;
+        line-height: 250px;
+      
+        float: left;
+      }
+      #div9{
+        width: 760px;
+        height: 150px;
+        line-height: 150px;
+      
+        float: left;
+        
+      }
+      
+      
+      
+}
